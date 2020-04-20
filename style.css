@@ -16,5 +16,35 @@
 
 } 
 .price{
-    colo:#ff136f;
+    color:#ff136f;
+}
+.cat1, .cat2, .cat3{
+    padding:10px 30px;
+    border-radius: 5px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: palevioletred;
+}
+.cat3{
+    background-color: rebeccapurple;
+}
+.col-md-4 h1{
+    color: seashell;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 10px gainsboro;
+}
+.card-footer{
+    background-color: none;
+    border-top: none;
+}
+#Subscribe{
+    height: 300px;
+}
+footer{
+    text-align:center ;
 }
